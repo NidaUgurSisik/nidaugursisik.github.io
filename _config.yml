@@ -39,10 +39,10 @@ sass:
 #bing-verify:
 #email:
 twitter:            uguur8
-facebook:           username
-github-url:         username
+#facebook:           username
+github-url:         nidaugursisik
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           nida-ugur-sisik
 #xing:              username
 instagram:          username
 #lastfm:            username
@@ -50,7 +50,7 @@ instagram:          username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              nu8s
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
