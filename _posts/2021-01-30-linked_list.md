@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Data Structure"
+title: "Linked List"
 date: 2021-01-30
-excerpt: "Linked List"
+excerpt: "Data Structure"
 tags: [data structure, linked list, algorithms]
 ---
 
